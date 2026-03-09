@@ -3,7 +3,7 @@
   --foreground: #fff;
 
   --text-primary: #000;
-  --text-secondary: #666;
+  --text-secondary: #000000;
 
   --button-primary-hover: #383838;
   --button-secondary-hover: #f2f2f2;
@@ -131,10 +131,10 @@ a.secondary {
     --background: #000;
     --foreground: #000;
 
-    --text-primary: #ededed;
-    --text-secondary: #999;
+    --text-primary: #000000;
+    --text-secondary: #000000;
 
-    --button-primary-hover: #ccc;
+    --button-primary-hover: #272727;
     --button-secondary-hover: #1a1a1a;
     --button-secondary-border: #1a1a1a;
   }
